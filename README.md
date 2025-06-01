@@ -2,10 +2,6 @@
 
 ##  Project Overview
 
-This repository contains the completed practical task as instructed in the PDF
-
----
-
 ##  Features Implemented
 
 - Prescription upload and management
