@@ -1,0 +1,2 @@
+INSERT INTO prescription_uploader.prescriptions (prescription,note,delivery_address,delivery_time,created_at,updated_at,user_id,status) VALUES
+	 ('["uploads\\/prescriptions\\/1748798066_Pres5.jpg","uploads\\/prescriptions\\/1748798066_Pres4.jpg","uploads\\/prescriptions\\/1748798066_Pres3.png","uploads\\/prescriptions\\/1748798066_Pres2.jpg","uploads\\/prescriptions\\/1748798066_Pres1.jpeg"]','Urgent Order','478 Meekanuwa Road, Kandy 20000','12:00:00','2025-06-01 17:14:26','2025-06-01 17:16:58',6,'ACCEPTED');
