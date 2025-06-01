@@ -2,10 +2,6 @@
 
 ##  Project Overview
 
-This repository contains the completed practical task as instructed in the PDF
-
----
-
 ##  Features Implemented
 
 - Prescription upload and management
@@ -15,12 +11,6 @@ This repository contains the completed practical task as instructed in the PDF
 - Admin and user roles with appropriate access control
 - Dynamic UI to view, zoom, and switch prescription images
 - Backend validation and clean code structure
-
----
-
-##  Time Spent
-
-**Total Hours Spent:** 12
 
 ---
 
