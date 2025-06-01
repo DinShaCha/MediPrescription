@@ -14,12 +14,6 @@
 
 ---
 
-##  Time Spent
-
-**Total Hours Spent:** 12
-
----
-
 ##  Backend Login Details
 
 - **Admin Email:** `admin@email.com`  
