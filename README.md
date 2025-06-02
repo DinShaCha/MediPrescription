@@ -21,7 +21,7 @@
 
 ##  Setup Instructions
 
-1. **Clone or extract the zipped folder**
+1. **Clone the project**
 2. **Navigate to the project root**
 3. **Install dependencies**
    ```bash
