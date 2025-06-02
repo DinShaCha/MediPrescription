@@ -1,5 +1,3 @@
-# Practical Task Submission
-
 ##  Project Overview
 
 ##  Features Implemented
